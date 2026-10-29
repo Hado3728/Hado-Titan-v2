@@ -1,0 +1,77 @@
+HADO TITAN V2
+
+ 
+          LASER CUT  (30 parts, 1638 g) 
+  bulkhead_L                 Al 6061-T6 8 mm                         77 g
+  bulkhead_R                 Al 6061-T6 8 mm                         77 g
+  doubler_L                  Al 6061-T6 8 mm                         46 g
+  doubler_R                  Al 6061-T6 8 mm                         46 g
+  fork_L                     Spring steel EN47 / Hardox 3.5 mm       82 g
+  fork_R                     Spring steel EN47 / Hardox 3.5 mm       82 g
+  gear_L                     Al 6061-T6 8 mm                         22 g
+  gear_R                     Al 6061-T6 8 mm                         22 g
+  lid                        Al 6061-T6 2.5 mm                      401 g
+  motor_pulley_flange_in     Al 6061-T6 1.5/3 mm                      8 g
+  motor_pulley_flange_out    Al 6061-T6 1.5/3 mm                      8 g
+  motor_pulley_hub           Al 6061-T6 1.5/3 mm                      7 g
+  motor_pulley_tooth_1       Al 6061-T6 1.5/3 mm                     12 g
+  motor_pulley_tooth_2       Al 6061-T6 1.5/3 mm                     12 g
+  motor_pulley_tooth_3       Al 6061-T6 1.5/3 mm                     12 g
+  motor_pulley_tooth_4       Al 6061-T6 1.5/3 mm                     12 g
+  motor_pulley_tooth_5       Al 6061-T6 1.5/3 mm                     12 g
+  pinion_L                   Al 6061-T6 8 mm                         11 g
+  pinion_R                   Al 6061-T6 8 mm                         11 g
+  retainer_L                 Al 6061-T6 2 mm                          6 g
+  retainer_R                 Al 6061-T6 2 mm                          6 g
+  splice_L                   Al 5052-H32 2 mm                         7 g
+  splice_R                   Al 5052-H32 2 mm                         7 g
+  upright_inner_L            Al 6061-T6 10 mm                       133 g
+  upright_inner_R            Al 6061-T6 10 mm                       133 g
+  upright_outer_L            Al 6061-T6 10 mm                       168 g
+  upright_outer_R            Al 6061-T6 10 mm                       168 g
+  washer_axle_L              Al 6061-T6 2 mm                          2 g
+  washer_axle_R              Al 6061-T6 2 mm                          2 g
+  weapon_mount               Al 6061-T6 6 mm                         46 g
+
+
+
+  LASER CUT + PRESS-BRAKE BENT  (1 parts, 709 g)
+  tub                        Al 5052-H32 3 mm                       709 g
+
+
+
+ LASER CUT + ROLLED + BENT  (1 parts, 180 g) 
+  rear_wall                  Al 5052-H32 3 mm                       180 g
+
+
+
+ CNC MACHINED (1 parts, 1912 g) 
+  drum                       EN24, hardened 45-48 HRC              1912 g
+
+
+
+ 3D PRINTED  (11 parts, 170 g)
+  cradle_battery             TPU 95A                                 43 g
+  cradle_mdds10              TPU 95A                                 37 g
+  cradle_receiver            TPU 95A                                 10 g
+  cradle_zerodrag            TPU 95A                                 11 g
+  link_housing               TPU 95A                                 12 g
+  saddle_drive_L             TPU 95A                                 18 g
+  saddle_drive_R             TPU 95A                                 18 g
+  saddle_liner_drive_L       TPU 95A                                  3 g
+  saddle_liner_drive_R       TPU 95A                                  3 g
+  saddle_liner_weapon        TPU 95A                                  4 g
+  saddle_weapon              TPU 95A                                 11 g
+
+
+ SUMMARY 
+  Laser cut                       30 parts
+  Laser cut + press-brake bent     1 parts
+  Laser cut + rolled + bent        1 parts
+  CNC machined + heat treated      1 parts
+  Lathe turned                    11 parts
+  3D printed                      11 parts
+  Cut from sheet                   4 parts
+  Bought                          17 parts
+  Fasteners                      162 pieces
+  TOTAL made + bought parts       76  (+ 162 fasteners)
