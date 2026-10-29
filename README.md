@@ -1,8 +1,8 @@
+<img width="1487" height="787" alt="ASSEMBLED" src="https://github.com/user-attachments/assets/5ca4b024-aa15-43cf-a5a2-d0f017a98dc5" />
 # Hado Titan V2
 
 ###### An 8 kg invertible drum spinner. The steel drum is belt driven and the chassis is laser-cut, bent sheet aluminium.
 
-!(JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png)
 
 
 
