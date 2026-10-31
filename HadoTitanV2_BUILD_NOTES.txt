@@ -1,0 +1,212 @@
+HADO TITAN V2 — BUILD NOTES
+
+
+Everything we changed, decided or need to remember while building. Read it alongside BOM.xlsx,
+the DXF zip (README.txt inside) and the drum drawings.
+
+==========================================================================================
+1. BEFORE YOU CUT OR ORDER ANYTHING — MEASURE / CONFIRM
+==========================================================================================
+[ ] Gearmotor (PG36M555): weigh one (BOM assumes 400 g) and measure the face screw holes.
+    The bulkhead DXFs assume 4 x M3 on a 28 mm circle. If it's different, get the DXFs updated
+    before cutting the bulkheads.
+[ ] Gearmotor face holes: how deep? The M3x10 goes through 4.8 mm of bulkhead and ~5 mm into the
+    motor. If the holes are shallower than 5 mm, use M3x8 for those 8 screws.
+[ ] Flipsky 5065: mounting holes assumed M4 on a 27.5 mm circle (weapon motor mount slots).
+    Check before cutting the motor mount.
+[ ] Flipsky 5065 hole depth: M4x10 through the 6 mm mount leaves 4 mm in the motor. If the holes
+    are shallower, use M4x8 so the screw can't touch the windings.
+[ ] Flipsky 5065: does it come with 5.5 mm bullets already fitted? If yes, you only need the
+    matching halves on the ESC side.
+[ ] ZeroDrag box: check the XT60H pigtail's gender (you need MALE pins to plug into the battery's
+    female XT60). The box also has the 35 V 1000 µF capacitor — no need to buy capacitors.
+[ ] SkyRC B6 V2: check the DC input lead's connector. Barrel socket = FEDUS plugs straight in.
+    Clips or XT60 = buy a barrel-to-XT60/clip lead (~₹100–150) or re-terminate the FEDUS lead.
+[ ] Shop aluminium must be 5052 for the bent parts (tub, rear wall). All the 6061 parts can be
+    cut from 5052 of the same thickness.
+[ ] Ask the shop if they stock 5052 in 6, 8 and 10 mm and how thick their laser can cut aluminium.
+    If they can't do 8–10 mm, the uprights/bulkheads/gears can be stacks of thinner plate
+    (needs DXF changes — ask).
+
+==========================================================================================
+2. LASER CUTTING (19 DXF files, 34 pieces)
+==========================================================================================
+- Cut ONLY the CUT layer. Turn off the BEND and NOTES layers.
+- Holes are drawn at finished size; the shop applies kerf compensation.
+- Holes smaller than the plate thickness (Ø2.5–5 mm in 8–10 mm plate): laser-mark, then drill.
+- Bearing bores (doubler Ø28, bulkhead Ø24, gearmotor pilot): cut 0.1–0.2 mm small, then ream.
+- Tub + rear wall flat patterns use the shop's bend deduction: 3.0 mm (one sheet thickness) per
+  90° bend. Finished outside sizes: floor 256 wide, walls 63 tall, flanges 14.
+- Rear wall: roll the two marked zones to R50 outside, then bend the lid flange. Leave the splice
+  ends a little long if unsure and trim to fit.
+- Pinions: the file says 8 mm — cut 4 pieces from 4 mm HR steel instead and bolt them in pairs.
+- Forks: the file says 3.5 mm — cut from 4 mm HR mild steel (IS 2062). Outline is the same.
+  Cut 2–3 spare pairs (they're consumables; HR steel can't be hardened).
+- Avoid GP (galvanised) sheet: zinc fumes when cut/welded.
+- New part: wheel_drive_plate_4mm_x2.dxf (5052, 4 mm).
+
+==========================================================================================
+3. AFTER CUTTING — DRILLING, TAPPING, COUNTERSINKING
+==========================================================================================
+upright_inner x2   tap 2 x M3 into the top and bottom edges (Ø2.5 drill, 9 deep)
+upright_outer x2   tap 2 x M3 into the top and bottom edges (Ø2.5, 9 deep)
+                   counterbore Ø17.2 x 4 deep around the shaft hole (inner face)
+                   drill Ø4.2 THROUGH + tap M5 THROUGH at the 3 tie holes (for M5x20)
+                   tap the cut holes: 2 x M6 (Ø5.0) and 3 x M5 (Ø4.2) for wall + fork bolts
+bulkhead L / R     bearing seat Ø24 x 6 deep (6901) — needs a mill/boring, or cut Ø24 straight
+                   through and let the gear hold the bearing
+                   4 x M3 counterbores Ø5.8 x 3.2 deep (gearmotor screws)
+                   tap 6 x M3 into the top and bottom edges (Ø2.5, 9 deep)
+doubler x2         drill + tap 4 x M4 from the wall side (Ø3.3, 7 deep)
+                   drill + tap 4 x M3 from the inside face for the retainer (Ø2.5, 6 deep)
+weapon motor mount tap 4 x M3 into the top and bottom edges (Ø2.5, 9 deep)
+pulley30T hub      countersink 4 holes for M3 flat heads
+retainer ring x2   countersink 4 holes for M3 flat heads
+gears + pulleys    deburr the teeth; run the gears in with grease
+tub + lid flanges  M4 rivnut holes are Ø6.0 — check your rivnut's body size
+EasyMech wheels    ream the Ø11 centre hole to Ø12
+
+==========================================================================================
+4. DRUM (3 parts) AND LATHE WORK
+==========================================================================================
+- Drum body (CNC, EN24): Ø64, Ø54 bored straight through, 2 wedges, 4 x M4 tapped 10 deep in
+  each end face on a Ø59 circle. Tap BEFORE heat treatment, then harden to 45–48 HRC and balance.
+- Left end cap + 20T HTD 5M pulley (6061): send drum_cap_L_pulley_drawing.pdf + drum_cap_L.step
+  to a timing-pulley maker. 20T, 5 mm pitch, PD Ø31.83, OD Ø30.69, teeth 15.5 wide, bore Ø22,
+  flange Ø64 x 4, spigot Ø54 k6 x 18, bearing seat Ø40 H7 x 18, DIN 472-40 circlip groove.
+- Right end cap (6061): lathe part, drawing sheet 3.
+- Caps bolt to the drum with 4 x M4x12 countersunk each (Loctite 243).
+- Press the 6203 bearings in by pushing on the OUTER ring only (Ø40 socket/tube). Never hammer the
+  inner ring or the seal.
+- Left bearing is held by the internal circlip — you need internal circlip pliers.
+- Lathe parts (same shop as the drum is easiest):
+    drum shaft Ø17 x 238, bore Ø10.2, both ends tapped M12 x 15 deep
+    wheel axles x2 Ø12 x 71, Ø5 bore, outer end tapped M6, 4 mm flat x 51 long
+    drum spacer L Ø17/Ø21 x 26.75, drum spacer R Ø17/Ø26 x 8.6
+    axle spacer inner x2 Ø12.1/Ø20 x 10.6, axle spacer outer x2 Ø12.1/Ø18 x 4.6
+
+==========================================================================================
+5. FASTENERS — WHAT GOES WHERE (and the fixes we found)
+==========================================================================================
+M3x10 socket head      plate edges (36) + gearmotors (8)
+M3x10 button head      cradles (16, with nylocks) + splices (8, with nylocks)
+M3x6 countersunk       bearing retainer rings (8). Phillips: tighten by hand with a good #1 bit.
+M3x25 countersunk      motor pulley stack (4), nylocks on the far side. If the belt rubs the
+                       flanges, add a 0.5–1 mm shim; with a full 1 mm shim switch to M3x30.
+M4x8 button head       lid into rivnuts (11)
+M4x10 socket head      weapon motor (4) — check hole depth first
+M4x10 button head      wheel-bearing doublers through the side walls (8)
+M4x12 countersunk      drum end caps (8)
+M5x20 socket head      upright ties (6, outer plate tapped THROUGH, tips end flush) +
+                       wheel drive plates (12, with M5 nylocks)
+M5x16 button head      forks (6). 16 mm is 2 mm too long: add 2 thin M5 washers under each head,
+                       OR grind 2 mm off and clean the thread with a nut. Otherwise the tip hits
+                       the inner upright plate and the fork never clamps.
+M6x12 socket head      wall to upright (4) + wheel axle ends (2, with M6 washers)
+M12x20 socket head     drum shaft ends (2) — 10 mm Allen key
+M3 nylock (stainless)  cradles, splices, motor pulley. Grease/Loctite if mated with stainless.
+Rivnuts M4 flat head   lid flanges (11). Fit AFTER anodising. Needs a rivnut tool.
+
+Grades: black alloy (10.9/12.9) for anything structural. Stainless / Phillips / low-grade are OK
+only for the lid, cradles, splices, receiver, retainer rings and pulley clamping screws.
+NOT stainless for: weapon motor, uprights, drum caps, drum shaft, wheel drive plates.
+Loctite 243 on every screw into metal, except where a nylock does the job.
+
+==========================================================================================
+6. WIRING
+==========================================================================================
+- Battery lead: male XT60 (battery has female). Prefer the ZeroDrag's XT60H pigtail if male.
+  If you use a 14 AWG pigtail, keep it ~5 cm and splice straight to 12 AWG.
+- 10 AWG dropped (out of stock): 12 AWG for battery -> link (keep it short and direct).
+- Wire use: 12 AWG ~1.3 m (2 packs bought), 14 AWG ~0.3 m, 16 AWG ~0.8 m.
+- Arming link: XT90S anti-spark FEMALE in the lid, XT90H MALE plug with a 10–12 AWG loop.
+  The female's '−' pin (the one with the resistor) goes to the ESC/bus side, the other to
+  battery +. Push the plug in with one firm motion — no spark.
+- Capacitor: the ZeroDrag's 35 V 1000 µF. Solder at the ESC power pads, legs short, stripe = −.
+  Secure with heat shrink + a dab of hot glue. Never use a 25 V capacitor (6S full = 25.2 V).
+- UBEC (Robocraze 3A): jumper to 5 V, input after the arming link, keep the ferrite ring.
+- Bullets: heat shrink each one, stagger the 3 joints.
+- 16 AWG motor wires: if you end up with white + black, mark the + wire with red tape.
+- Servo leads: secure every plug with hot glue or a zip tie. Cut one end for the ZeroDrag
+  signal + GND pads if its own cable doesn't suit.
+- Heat shrink sizes: XT90 12.7 mm, XT60/cap 10.2 mm, bullets 7.3 mm, 12 AWG 6.4 mm,
+  14 AWG 5.1 mm, 16 AWG 3.6–4.2 mm.
+- KiCad schematic + PDF: HadoTitanV2_wiring_KiCad.zip.
+
+==========================================================================================
+7. ELECTRONICS SETUP
+==========================================================================================
+ZeroDrag (AM32 configurator): bidirectional ON, current limit 50 A, brake on stop OFF,
+  temperature limit ON if the board supports it. CH3 -> motor 1 signal pad.
+MDDS10: DIP switches to RC mode + mixing. CH1 -> RC1 (steer), CH2 -> RC2 (throttle).
+Transmitter: failsafe CH1/CH2 centre, CH3 weapon off — test on blocks.
+  One switch reverses CH2 and CH3 for upside-down driving (steering stays the same).
+Transmitter power: 4 x AA (keep spares in the event kit; NiMH rechargeables are fine).
+
+==========================================================================================
+8. 3D PRINTING (11 TPU parts, quoted ₹850)
+==========================================================================================
+TPU 95A, 4 walls, 5 top/bottom layers, gyroid infill 30% (40% for the battery cradle and the
+two drive saddles). Drill every screw hole to Ø3.2 after printing. Fix with M3x10 button heads
++ nylocks, NOT heat-set inserts.
+Optional later: thermal pad under the ZeroDrag — cut a window in its cradle floor with a hot
+knife (leave a 5–6 mm rim around the screws), replace the bottom foam with a 2 mm silicone pad
+cut to the ESC's size. The tub vent hole is smaller than the ESC, so ~80% still touches metal.
+
+==========================================================================================
+9. BEARINGS AND BELT
+==========================================================================================
+6203-2RS (drum) x2: NBC — genuine brand only (SKF/FAG also fine). Avoid listings where the
+  title and brand don't match.
+6001-2RS (outer wheel) x2: NBC — these take the wheel impacts.
+6901-2RS (inner wheel) x2: XERFU 10-pack is fine; keep spares.
+Spin every bearing by hand on arrival: smooth and quiet, not gritty.
+Belt: HTD 280-5M-15 closed loop, x2. Power-transmission shop (SP Road / Kalasipalya).
+  Brands: Gates PowerGrip, Fenner, Optibelt. 275 or 285 also fit (slots give ±9 mm).
+  Must be 15 mm wide and 5M (not 3M / GT2).
+
+==========================================================================================
+10. BATTERY AND CHARGING
+==========================================================================================
+6S 2500 mAh: enough for 3-min fights and typical 5-min fights. A hard 5-min fight uses
+  ~76–86% of the pack — finishes, but is hard on it. After a 5-min practice run, check how many
+  mAh the charger puts back: under ~2,000 = fine; over = consider 6S 3000–3300 (+80–120 g,
+  cradle needs redrawing).
+Charger: genuine SkyRC B6 V2 (not the B6AC clones) + FEDUS 12 V 5 A supply.
+  ~2 A charge at 50 W limit, ~1.25 h from empty.
+Charge in a LiPo-safe bag on a non-flammable surface; never unattended.
+
+==========================================================================================
+11. WEIGHT (7.87 kg in CAD, ~129 g margin; ~65 g after steel forks + pinions)
+==========================================================================================
+Weigh every part as it arrives. If over, trim in this order:
+Easy (no fighting cost): lid lightening holes / 2 mm lid (60–100 g), TPU infill 20% (15–20 g),
+  shorter wiring (10–20 g), shorter/aluminium screws in non-structural spots (15–25 g),
+  thinner foam (10–15 g).
+Medium: bulkheads 6 mm (30–40 g), doublers 6 mm (~25 g), bigger gear holes (~10 g), drive plates
+  3 mm (~15 g), inner upright windows (30–40 g), floor cutouts under electronics (30–50 g).
+Last resort: forks 3 mm (20–40 g), 6S 2200 battery (~50 g), drum bore/shorten (50–100 g+).
+Never trim: outer upright plates, side walls, drum shaft, bearings, motors.
+Hand-trimming holes: lid 2.5 mm — Ø40 ≈ 8.4 g, Ø50 ≈ 13 g; floor 3 mm — Ø40 ≈ 10 g.
+  Keep one hole-diameter from screws/bends/edges, space them evenly left-right, deburr, and keep
+  chips away from electronics. Easiest: have the shop re-cut a lightened lid.
+
+==========================================================================================
+12. ANODISING (optional, violet)
+==========================================================================================
+Adds ~10–15 g for the enclosure. Anodise AFTER bending. Mask bearing bores, tapped holes and
+rivnut holes. Fit rivnuts after. 5052 colours duller/patchier than 6061 — ask for a sample.
+
+==========================================================================================
+13. DRIVING NOTES
+==========================================================================================
+Turn slowly with the drum at full speed: above ~0.95 turns/s the inside wheel lifts (gyro).
+Push: ~41 N continuous, ~52 N traction-limited.
+Between fights: open the lid and feel the ESC — too hot to keep a finger on (>60 °C) means it
+needs more cooling. Check fork, upright and drum screws are tight.
+
+==========================================================================================
+14. FOR FORGE
+==========================================================================================
+The reference CAD/DXFs are mine (AI-assisted). Forge needs your own SolidWorks model + STEP
+exports, a journal written by you with real dates, and honest credits in the README.
