@@ -1,0 +1,74 @@
+CATEGORY,COMPONENT,QUANTITY,UNIT PRICE,TOTAL PRICE Rs,PRICE in USD,SOURCING,PRICE CALCULATION
+Metal (laser/bend),"Axle washers x2, 2 mm 5052 — 4 g finished",1,2.00,2.00,0.02,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Bearing retainer rings x2, 2 mm 5052 — 12 g finished",1,6.00,6.00,0.06,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Splice plates x2, 2 mm 5052 — 14 g finished",1,7.00,7.00,0.07,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Drive gears 27T x2, m1.5 involute, 8 mm 5052 — 44 g finished",1,21.00,21.00,0.22,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Weapon motor mount, 6 mm 5052 — 46 g finished",1,22.00,22.00,0.23,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Wheel drive plates x2, 4 mm 5052 (new with EasyMech wheels) — 53 g finished",1,26.00,26.00,0.28,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Pinions 18T x2, made from 4 pcs of 4 mm HR steel bolted in pairs — 64 g finished",1,31.00,31.00,0.33,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Motor pulley 30T HTD 5M: 5 toothed (3 mm) + 2 flanges (1.5 mm) + hub (3 mm), 5052 — 83 g finished",1,40.00,40.00,0.42,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Wheel-bearing doublers x2, 8 mm 5052 — 92 g finished",1,45.00,45.00,0.48,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Drive bulkheads x2, 8 mm 5052 — 154 g finished",1,75.00,75.00,0.79,Local Hardware Shop,₹375/kg incl. cutting + bending
+Wiring,"XT60 male pigtail, 12 AWG 10 cm (mates battery)",1,79.00,79.00,0.84,https://zerodrag.in/products/zerodrag-xt-60-12awg-10cm-pigtail-cable-connector-male,estimate
+Wiring,"Amass XT90H male (arming plug, short its pins with a 10–12 AWG loop)",1,79.00,79.00,0.84,https://robu.in/?p=24730,verified
+Metal (laser/bend),"Rear wall, 3 mm 5052-H32, laser cut + rolled R50 + bent (3 mm bend deduction) — 180 g finished",1,88.00,88.00,0.93,Local Hardware Shop,₹375/kg incl. cutting + bending
+Metal (laser/bend),"Forks x2, 4 mm HR mild steel, laser cut — 187 g finished",1,91.00,91.00,0.96,Local Hardware Shop,₹375/kg incl. cutting + bending
+Fasteners,"M3x6 countersunk, Phillips (bearing retainers) — need 8, 1 x pack of 25",1,99.00,99.00,1.05,https://www.amazon.in/Rpi-shop-Phillips-Countersunk-Quantity/dp/B08HN98FS3/ref=sr_1_7?sr=8-7,verified
+Fasteners,"M3x25 countersunk, Phillips (motor pulley stack) — need 4, 1 x pack of 10",1,99.00,99.00,1.05,https://www.amazon.in/Rpi-shop-Phillips-Countersunk-Quantity/dp/B08HNBC1L4/ref=sr_1_5?sr=8-5,verified
+Fasteners,"M4x10 button head (wheel-bearing doublers) — need 8, 1 x pack of 25",1,99.00,99.00,1.05,https://www.amazon.in/RPISHOP-Button-Socket-Machine-Quantity/dp/B086H6XHZK/ref=sr_1_6?sr=8-6,estimate
+Wiring,16 AWG silicone wire 1 m red + 1 m black,1,109.00,109.00,1.15,https://roboman.in/product/high-quality-ultra-flexible-16awg-silicone-wire-1m-red-1m-black-copy/,verified
+Fasteners,"M4x8 button head, 10.9 black (lid into rivnuts) — need 11, 1 pack",1,110.50,110.50,1.17,https://www.amazon.in/RPISHOP-Button-Socket-Machine-Quantity/dp/B086H6TFZW/ref=sr_1_2?sr=8-2,estimate
+Fasteners,"M4x10 socket head, 12.9 black (weapon motor) — need 4, 1 x set of 12",1,113.00,113.00,1.20,https://robu.in/product/easymech-set-of-m4-x-8mm-socket-head-cap-allen-bolt-and-nut-12-pcs/,verified
+Fasteners,"M5x16 button head, 10.9 black (forks) — need 6, 1 pack",1,118.00,118.00,1.25,https://www.amazon.in/RPISHOP-Button-Socket-Machine-Quantity/dp/B086H5GRCY/ref=sr_1_8?sr=8-8,verified
+Fasteners,"M5 nylock nut (wheel drive plates) — need 12, 1 x pack of 25",1,120.00,120.00,1.27,https://www.amazon.in/Immech-Thread-Locking-Insert-Quantity/dp/B07Z3X2YS6,estimate
+Fasteners,"Washers M5 (forks, 12 thin) + M6 (axle ends, 2) — stainless",1,150.00,150.00,1.59,https://www.amazon.in/Stainless-Steel-304Q-Plain-Washer/dp/B0H5M4TXSS/ref=sr_1_8?sr=8-8,estimate
+Bought mechanical,EVA foam sheet 2 mm (cradle lining),1,150.00,150.00,1.59,https://www.amazon.in/Black-Sheets-Thick-Projects-Flexible/dp/B0H4D6P874/ref=sr_1_7?sr=8-7,estimate
+Wiring,Amass XT90S anti-spark female (removable link socket),1,159.00,159.00,1.68,https://robu.in/product/xt90-s-anti-spark-connector-with-housing-female/,verified
+Wiring,14 AWG silicone wire 1 m red + 1 m black,1,169.00,169.00,1.79,https://roboman.in/product/high-quality-ultra-flexible-14awg-silicone-wire-1m-red-1m-black/,estimate
+Fasteners,"M6x12 socket head, black (wall to upright x4 + axle ends x2) — need 6, 1 x pack of 10",1,174.15,174.15,1.84,https://www.amazon.in/Rpi-shop-Stainless-Machine-Quantity/dp/B07XDZR24X/ref=sr_1_8?nsdOptOutParam=true&sr=8-8,verified
+Fasteners,"M4x12 countersunk Allen, high tensile (drum end caps) — need 8, 1 x pack of 50",1,180.00,180.00,1.90,https://www.amazon.in/Rpi-shop-tensile-Machine-Quantity/dp/B07XY7J2CJ,estimate
+Metal (laser/bend),"Lid, 2.5 mm 5052, laser cut — 401 g finished",1,195.00,195.00,2.06,Local Hardware Shop,₹375/kg incl. cutting + bending
+Fasteners,"M4 steel rivnut, flat head, zinc plated (lid flanges) — need 11, 1 x pack of 100",1,249.00,249.00,2.63,https://www.amazon.in/Plated-Metric-Threaded-Rivetnut-Insert/dp/B0DG6MWMDH/ref=sr_1_6?sr=8-6,estimate
+Fasteners,"Internal circlip DIN 472, 40 mm (left drum bearing) — need 1 (+ spares)",1,250.00,250.00,2.65,https://www.amazon.in/Internal-Circlip-Snap-ring-Size/dp/B0DJVN4KDN,estimate
+Wiring,"Amass 5.5 mm bullet connector pair (male + female), 1 per phase + 1 spare",4,72.00,288.00,3.05,https://robu.in/product/amass-polymax-55mm-gold-plated-bullet-battery-connector-pair-gc5510-f-and-gc5510-m/,verified
+Metal (laser/bend),"Weapon uprights x4, 10 mm 5052, laser cut — 602 g finished",1,293.00,293.00,3.10,Local Hardware Shop,₹375/kg incl. cutting + bending
+Fasteners,"M5x20 socket head, black (upright ties x6 + wheel drive plates x12) — need 18, 2 x pack of 10",2,148.19,296.38,3.14,https://www.amazon.in/Rpi-shop-Stainless-Machine-Quantity/dp/B07XBSZK8R/ref=sr_1_2?sr=8-2,verified
+Fasteners,"M3x10 button head, 10.9 black (cradles x16, splices x8) — need 24, 2 x pack of 25",2,149.49,298.98,3.16,https://www.amazon.in/RPISHOP-Button-Socket-Machine-Quantity/dp/B086H618BB/ref=sr_1_4?sr=8-4,verified
+Wiring,"Servo extension leads 30 cm, pack of 10",1,299.00,299.00,3.16,https://www.amazon.in/30CM-Servo-Extension-Cable-Pack/dp/B0FBLG72DJ/ref=sr_1_1?sr=8-1,verified
+Wiring,"Heat shrink kit BELLOX 560 pcs, 2:1, up to 12.7 mm",1,310.61,310.61,3.29,https://www.amazon.in/BELLOX-560Pieces-Heat-Shrink-Tubing/dp/B0DZXD1YLK/ref=sr_1_2_sspa?sr=8-2-spons&aref=3ZYyKHS6cW&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,verified
+Metal (laser/bend),"Tub U-channel, 3 mm 5052-H32, laser cut + bent (3 mm bend deduction) — 709 g finished",1,346.00,346.00,3.66,Local Hardware Shop,₹375/kg incl. cutting + bending
+Fasteners,"M3 nylock nut, stainless (cradles, splices, pulley) — need 28, 1 x pack of 50",1,349.00,349.00,3.69,https://www.amazon.in/Nylock-Nuts-Pcs-Self-Locking-Anti-Loosening/dp/B0GWCVVNNC/ref=sr_1_3?sr=8-3,verified
+Bought mechanical,"Loctite 243 threadlocker, 50 ml",1,350.00,350.00,3.70,https://www.amazon.in/Medium-strength-Threadlocker-Thixotropic-temperature-performance/dp/B014MMG3AM/ref=sr_1_1_sspa?nsdOptOutParam=true&sr=8-1-spons&aref=n2qFF6FhiS&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,estimate
+Wiring,12 AWG silicone wire 1 m red + 1 m black (also covers battery to link),2,190.00,380.00,4.02,https://roboman.in/product/high-quality-ultra-flexible-12awg-silicone-wire-1m-red-1m-black/,estimate
+Machining,"Right drum end cap, 6061 (to drawing)",1,400.00,400.00,4.23,local lathe,estimate
+Fasteners,"M3x10 socket head, black (plate edges x36, gearmotor x8) — need 44, 2 x pack of 25",2,210.00,420.00,4.44,https://www.amazon.in/Rpi-shop-Stainless-Machine-Quantity/dp/B07XFP714Z/ref=sr_1_1_sspa?sr=8-1-spons&aref=wbGnA33q4V&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,verified
+Electronics,"Mini UBEC 5 V 3 A (2-6S), Robocraze",1,479.00,479.00,5.07,https://www.amazon.in/Robocraze-Switch-Mode-Regulator-Multi-Rotor-Indicator/dp/B0DP54JVJY/ref=sr_1_1?sr=8-1,verified
+Bought mechanical,"Bearing 6901-2RS 12x24x6, XERFU (wheel, inner), pack of 10",1,480.00,480.00,5.08,https://www.amazon.in/XERFU-6901-2RS-Pieces-Rubber-Bearing/dp/B0HDRFDQR1/ref=sr_1_5?sr=8-5,verified
+Bought mechanical,"Bearing 6001-2RS 12x28x8, NBC (wheel, outer)",2,270.00,540.00,5.71,https://www.amazon.in/NBC-6001-2RS-Bearing-12x28x8-Machinery/dp/B0HJ7X1JC1/ref=sr_1_11?sr=8-11,verified
+Fasteners,"M12x20 socket head cap screw, black (drum shaft ends) — need 2 (+ spares), 1 x pack of 10",1,598.00,598.00,6.33,https://www.amazon.in/B-K-Jagan-Co-Socket-Screw-ALLEN/dp/B0BYCTD8YP/ref=sr_1_4?sr=8-4,verified
+Machining,"Lathe parts material: drum shaft Ø17 (bore 10.2, M12 both ends), 2 wheel axles Ø12, spacers — EN24/6061 bar",1,600.00,600.00,6.35,https://www.amazon.in/s?k=EN24+round+bar,estimate
+Bought mechanical,"Bearing 6203-2RS 17x40x12, NBC (drum)",2,340.00,680.00,7.20,https://www.amazon.in/NBC-6203-2RS-Bearing-17X40X12-Machinery/dp/B0HJ87GK1L/ref=sr_1_9?sr=8-9,verified
+Machining,Drum heat treatment: harden + temper EN24 to 45-48 HRC,1,800.00,800.00,8.47,local heat treater,estimate
+3D printing,"TPU 95A parts: 11 parts, ~170 g (4 cradles, 3 motor saddles + 3 liners, link housing)",1,850.00,850.00,8.99,,verified
+3D printing,"TPU 95A parts: 4 fork caps, 2 drum cap",1,826.00,826.00,8.75,,verified
+Machining,Drum blank: EN24 round bar Ø80 x 205 mm (~8.1 kg),1,891.00,891.00,9.43,https://m.indiamart.com/impcat/en24-round-bar.html,estimate
+Bought mechanical,"Timing belt HTD 280-5M-15, closed loop (one spare)",2,450.00,900.00,9.52,Local hardware Shop,estimate
+Bought mechanical,"Wheels: EasyMech 100 mm Modified HD disc wheel, gray, 2-pack (ream Ø11 to Ø12)",1,"1,045.00","1,045.00",11.06,https://robu.in/product/modified-heavy-dutyhd-disc-wheel-100mm-dia-2pc-grey-color/,verified
+Machining,"Left drum end cap + 20T HTD 5M pulley, 6061 (to drawing)",1,"1,200.00","1,200.00",12.70,timing-pulley maker / lathe shop,estimate
+Machining,"Lathe work for the shaft, axles and spacers (manual lathe)",1,"1,400.00","1,400.00",14.81,local lathe,estimate
+Electronics,"Drive gearmotor Pro-Range PG36M555-19.2K (24 V, 468 rpm)",2,"1,499.00","2,998.00",31.72,https://robu.in/product/orange-planetary-gear-dc-motor-24v-468-rpm-72-6-n-cm-pg36m555-19-2k/,verified
+Electronics,Drive ESC Cytron SmartDriveDuo MDDS10,1,"3,937.00","3,937.00",41.66,https://robu.in/product/smartdriveduo-10/,verified
+Electronics,Battery Orange 6S 2500 mAh 35C (XT60),1,"4,299.00","4,299.00",45.49,https://robu.in/product/orange-2500mah-6s-35c-22-2-v-lithium-polymer-battery-pack-li-po/,verified
+Electronics,Radio FlySky FS-i6X + FS-iA10B receiver,1,"4,699.00","4,699.00",49.72,https://robu.in/product/flysky-fs-i6x-2-4ghz-10ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver/,verified
+Machining,"Drum body CNC: EN24, turn Ø64, bore Ø54 straight through, mill 2 wedges, tap 8 x M4",1,"6,000.00","6,000.00",63.49,local CNC job shop (Peenya),estimate
+Electronics,Weapon ESC ZeroDrag BOOST AM32 55A 4-in-1 (includes 35 V 1000 µF cap + XT60H pigtail),1,"6,445.00","6,445.00",68.20,https://zbotic.in/product/zerodrag-boost-am32-55a-4-in-1-esc-made-in-india/,verified
+Electronics,Weapon motor Flipsky 5065 270KV (8 mm keyed shaft),1,"7,100.00","7,100.00",75.13,https://www.technobotix.in/products/flipsky-5065-270kv-1550w-bldc-electric-skateboard-motor/1781252000000062912,estimate
+Support (not on the robot),"12 V 5 A (60 W) power supply for the charger, FEDUS",1,759.00,759.00,8.03,https://www.amazon.in/FEDUS-Adapter-Converter-Battery-Transformer/dp/B0CDM8586S/ref=sr_1_4_in_f3_0o_at_mod_primary_alm?sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-4,verified
+Support (not on the robot),Charger SkyRC iMAX B6 V2 60 W 6 A (genuine),1,"2,710.00","2,710.00",28.68,https://robu.in/product/imax-b6-50w-5a-chargerdischarger-1-6-cells-genuine/,verified
+TOTAL (robot only),,,,"54,779.00",579.67,,
+TOTAL (incl. charger),,,,"58,268.00",616.59,,
+,,,,,,,
+,,,,,,,
+,94.5,,,,,,
+,,,,,,,
+Fasteners,CART LINK TO ALL THE SCREWS AND NUT FOR THE WHOLE PROJECT,,,,,https://onlyscrews.in/a/cart?cart-token=ZDopDt&link-token=Z7U5qQ,
