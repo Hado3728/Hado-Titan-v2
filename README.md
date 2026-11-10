@@ -24,7 +24,19 @@
 
 
 
+
+
+
+
+
+
 !\[GEAR SYSTEM FOR DRIVES](<JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg>)
+
+## 
+
+## 
+
+## 
 
 ## 
 
