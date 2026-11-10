@@ -84,5 +84,7 @@ Approx value, it will prolly be lesser than $616 since i'm pitching my own allow
 |Total|7782|
 THESE HAVE CHANGED (SO ABOUT 100 GM +-) 
 
+ALL THE LASER CUT PARTS DELIVERED
+<img width="1600" height="1068" alt="WhatsApp Image 2026-11-10 at 12 16 42 PM" src="https://github.com/user-attachments/assets/44ca50de-18bd-4b31-aa24-65088879bb61" />
 
 
