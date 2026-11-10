@@ -4,9 +4,7 @@
 
 
 
-!(<JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png>)
-
-
+!\[Hado Titan V2 assembled](<JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png>)
 
 
 
