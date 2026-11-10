@@ -4,7 +4,7 @@
 
 
 
-!(JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png)
+!(<JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png>)
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-!\[GEAR SYSTEM FOR DRIVES](JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg)
+!\[GEAR SYSTEM FOR DRIVES](<JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg>)
 
 ## 
 
