@@ -2,6 +2,8 @@
 
 ###### An 8 kg invertible drum spinner. The steel drum is belt driven and the chassis is laser-cut, bent sheet aluminium.
 
+
+
 !(JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png)
 
 
@@ -20,7 +22,15 @@
 
 #### DRIVE GEAR SYSTEM (READY)
 
-!(JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg)
+
+
+
+
+!\[GEAR SYSTEM FOR DRIVES](JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg)
+
+## 
+
+## 
 
 ## How it works
 
