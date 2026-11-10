@@ -2,7 +2,7 @@
 
 ###### An 8 kg invertible drum spinner. The steel drum is belt driven and the chassis is laser-cut, bent sheet aluminium.
 
-<img width="1487" height="787" alt="ASSEMBLED" src="https://github.com/user-attachments/assets/55243c13-4706-4501-a2c9-a47a8f5304a1" />
+<img width="1172" height="772" alt="Screenshot 2026-11-10 154430" src="https://github.com/user-attachments/assets/2a022fcb-3b22-4e36-8b92-968808a48863" />
 
 
 
