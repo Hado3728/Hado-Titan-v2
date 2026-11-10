@@ -13,10 +13,14 @@
 |Size|386 × 268 × 100 mm|
 |Weapon|Spinning drum|
 |Weapon numbers|7,640 rpm, 539 J, 31 m/s at the tips, 0.9 s spin-up|
-|Drive|2 × PG36M555 gearmotors → 18:27 laser-cut gears → 100 mm wheels. 1.9 m/s, \~50 N push|
+|Drive|2 × PG36M555 gearmotors  18:27 laser-cut gears|
 |Battery|6S 2500 mAh 35C. A hard 5-minute fight.|
 
 
+
+#### DRIVE GEAR SYSTEM (READY)
+
+!(JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg)
 
 ## How it works
 
