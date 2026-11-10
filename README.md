@@ -2,9 +2,8 @@
 
 ###### An 8 kg invertible drum spinner. The steel drum is belt driven and the chassis is laser-cut, bent sheet aluminium.
 
+<img width="1487" height="787" alt="ASSEMBLED" src="https://github.com/user-attachments/assets/55243c13-4706-4501-a2c9-a47a8f5304a1" />
 
-
-!\[Hado Titan V2 assembled](<JOURNAL/SCREENSHOT DUMP/ASSEMBLED.png>)
 
 
 
@@ -30,7 +29,8 @@
 
 
 
-!\[GEAR SYSTEM FOR DRIVES](<JOURNAL/SCREENSHOT DUMP/Laser cut gear system.jpeg>)
+<img width="1476" height="1589" alt="Laser cut gear system" src="https://github.com/user-attachments/assets/ca0281ff-e2c0-4239-9969-1f82ecdf9038" />
+
 
 ## 
 
