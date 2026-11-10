@@ -32,15 +32,7 @@
 <img width="1476" height="1589" alt="Laser cut gear system" src="https://github.com/user-attachments/assets/ca0281ff-e2c0-4239-9969-1f82ecdf9038" />
 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
+ 
 
 ## How it works
 
