@@ -40,23 +40,6 @@
 
 It basically is a two wheel driven combat bot, with a HR steel front single drum spinner with two protrusions. It is driven by a 5M HTD belt connected to a weapon motor inside the main bot. The weight distribution on to the ground is at two points, mainly the  wheels and the forks. The two wheels hold upto 75% of the total body weight of the bot whereas the forks hold the remaining weight. The order in which the bot works is that the forks elevate the opponent and then fed towards the drum spinner for the impact. The forks are shaped to work as a hook to latch on to the opponents to pull the other bot for maximum control. It is powered by a LiPO 6S 2500mah battery at the rear end of the bot which is protected with TPU fins about 30mm in length, and also the battery is also insulated with a EVA foam against the metal exterior.
 
-## Numbers
-
-
-
-
-
-|||
-|-|-|
-|Centre of mass|51 mm ahead of the axle, centred side to side and top to bottom|
-|Weight on wheels|73% (the fork tips carry the rest, so they stay on the floor)|
-|Drum torque|2.4 N·m at the 50 A limit. Belt pull 153 N|
-|Drum momentum|1.35 N·m·s. One wheel starts to lift above \~0.8 turns/s with the drum at full speed|
-|Push|41 N continuous, \~100 N burst from the motors, capped at \~50 N by traction. Beats an 8 kg bot sitting with locked wheels (\~47 N)|
-|Re-spins|Each spin-up costs 0.2 Wh. About 27 are left after a hard 5-minute fight|
-|Peak current|\~76 A = 30C (pack is rated 35C)|
-
-
 
 ## BOM
 
@@ -76,7 +59,7 @@ It basically is a two wheel driven combat bot, with a HR steel front single drum
 |Charger (only if needed)|3,043|
 |Total|$616|
 
-## 
+Approx value, it will prolly be lesser than $616 since i'm pitching my own allowance too (I already ordered the laser cut parts, and i even got em delivered) 
 
 ## Weight
 
@@ -99,6 +82,7 @@ It basically is a two wheel driven combat bot, with a HR steel front single drum
 |TPU cradles + foam|154|
 |Wiring|140|
 |Total|7782|
+THESE HAVE CHANGED (SO ABOUT 100 GM +-) 
 
 
 
