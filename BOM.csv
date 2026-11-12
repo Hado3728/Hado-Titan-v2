@@ -48,19 +48,19 @@ Bought mechanical,"Bearing 6001-2RS 12x28x8, NBC (wheel, outer)",2,270.00,540.00
 Fasteners,"M12x20 socket head cap screw, black (drum shaft ends) — need 2 (+ spares), 1 x pack of 10",1,598.00,598.00,6.33,https://www.amazon.in/B-K-Jagan-Co-Socket-Screw-ALLEN/dp/B0BYCTD8YP/ref=sr_1_4?sr=8-4,verified
 Machining,"Lathe parts material: drum shaft Ø17 (bore 10.2, M12 both ends), 2 wheel axles Ø12, spacers — EN24/6061 bar",1,600.00,600.00,6.35,https://www.amazon.in/s?k=EN24+round+bar,estimate
 Bought mechanical,"Bearing 6203-2RS 17x40x12, NBC (drum)",2,340.00,680.00,7.20,https://www.amazon.in/NBC-6203-2RS-Bearing-17X40X12-Machinery/dp/B0HJ87GK1L/ref=sr_1_9?sr=8-9,verified
-Machining,Drum heat treatment: harden + temper EN24 to 45-48 HRC,1,800.00,800.00,8.47,local heat treater,estimate
-3D printing,"TPU 95A parts: 11 parts, ~170 g (4 cradles, 3 motor saddles + 3 liners, link housing)",1,850.00,850.00,8.99,,verified
-3D printing,"TPU 95A parts: 4 fork caps, 2 drum cap",1,826.00,826.00,8.75,,verified
+Machining,Drum heat treatment: harden + temper EN24 to 45-48 HRC,1,800.00,800.00,8.47,https://dir.indiamart.com/bengaluru/cnc-machining-centre.html,estimate
+3D printing,"TPU 95A parts: 11 parts, ~170 g (4 cradles, 3 motor saddles + 3 liners, link housing)",1,850.00,850.00,8.99,https://robu.in/,verified
+3D printing,"TPU 95A parts: 4 fork caps, 2 drum cap",1,826.00,826.00,8.75,https://robu.in/,verified
 Machining,Drum blank: EN24 round bar Ø80 x 205 mm (~8.1 kg),1,891.00,891.00,9.43,https://m.indiamart.com/impcat/en24-round-bar.html,estimate
-Bought mechanical,"Timing belt HTD 280-5M-15, closed loop (one spare)",2,450.00,900.00,9.52,Local hardware Shop,estimate
+Bought mechanical,"Timing belt HTD 280-5M-15, closed loop (one spare)",2,450.00,900.00,9.52,https://dir.indiamart.com/search.mp?ss=timing+belt&prdsrc=1&v=4&mcategoryid=&catid=&crs=city-landing&trc=xim&cq=Bengaluru&tags=res:RC2|ktp:N0|stype:attr=1|mtp:G|wc:2|lcf:3|cq:bengaluru|qr_nm:gl-gd|cs:20550|com-cf:nl|ptrs:na|intr:1|mcatc:1|mc:159|cat:127|qry_typ:P|lang:en|tyr:1|qrd:261112|mrd:260924|prdt:261112|msf:hs|pfen:1|gli:U0G0I0|gc:Bengaluru|ic:Bengaluru|scw:1|emt:10,estimate
 Bought mechanical,"Wheels: EasyMech 100 mm Modified HD disc wheel, gray, 2-pack (ream Ø11 to Ø12)",1,"1,045.00","1,045.00",11.06,https://robu.in/product/modified-heavy-dutyhd-disc-wheel-100mm-dia-2pc-grey-color/,verified
-Machining,"Left drum end cap + 20T HTD 5M pulley, 6061 (to drawing)",1,"1,200.00","1,200.00",12.70,timing-pulley maker / lathe shop,estimate
-Machining,"Lathe work for the shaft, axles and spacers (manual lathe)",1,"1,400.00","1,400.00",14.81,local lathe,estimate
+Machining,"Left drum end cap + 20T HTD 5M pulley, 6061 (to drawing)",1,"1,200.00","1,200.00",12.70,https://dir.indiamart.com/bengaluru/cnc-machining-centre.html,estimate
+Machining,"Lathe work for the shaft, axles and spacers (manual lathe)",1,"1,400.00","1,400.00",14.81,https://dir.indiamart.com/bengaluru/cnc-machining-centre.html,estimate
 Electronics,"Drive gearmotor Pro-Range PG36M555-19.2K (24 V, 468 rpm)",2,"1,499.00","2,998.00",31.72,https://robu.in/product/orange-planetary-gear-dc-motor-24v-468-rpm-72-6-n-cm-pg36m555-19-2k/,verified
 Electronics,Drive ESC Cytron SmartDriveDuo MDDS10,1,"3,937.00","3,937.00",41.66,https://robu.in/product/smartdriveduo-10/,verified
 Electronics,Battery Orange 6S 2500 mAh 35C (XT60),1,"4,299.00","4,299.00",45.49,https://robu.in/product/orange-2500mah-6s-35c-22-2-v-lithium-polymer-battery-pack-li-po/,verified
 Electronics,Radio FlySky FS-i6X + FS-iA10B receiver,1,"4,699.00","4,699.00",49.72,https://robu.in/product/flysky-fs-i6x-2-4ghz-10ch-afhds-2a-rc-transmitter-with-fs-ia10b-2-4ghz-10ch-receiver/,verified
-Machining,"Drum body CNC: EN24, turn Ø64, bore Ø54 straight through, mill 2 wedges, tap 8 x M4",1,"6,000.00","6,000.00",63.49,local CNC job shop (Peenya),estimate
+Machining,"Drum body CNC: EN24, turn Ø64, bore Ø54 straight through, mill 2 wedges, tap 8 x M4",1,"6,000.00","6,000.00",63.49,https://dir.indiamart.com/bengaluru/cnc-machining-centre.html,estimate
 Electronics,Weapon ESC ZeroDrag BOOST AM32 55A 4-in-1 (includes 35 V 1000 µF cap + XT60H pigtail),1,"6,445.00","6,445.00",68.20,https://zbotic.in/product/zerodrag-boost-am32-55a-4-in-1-esc-made-in-india/,verified
 Electronics,Weapon motor Flipsky 5065 270KV (8 mm keyed shaft),1,"7,100.00","7,100.00",75.13,https://www.technobotix.in/products/flipsky-5065-270kv-1550w-bldc-electric-skateboard-motor/1781252000000062912,estimate
 Support (not on the robot),"12 V 5 A (60 W) power supply for the charger, FEDUS",1,759.00,759.00,8.03,https://www.amazon.in/FEDUS-Adapter-Converter-Battery-Transformer/dp/B0CDM8586S/ref=sr_1_4_in_f3_0o_at_mod_primary_alm?sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&sr=8-4,verified
@@ -71,4 +71,4 @@ TOTAL (incl. charger),,,,"58,268.00",616.59,,
 ,,,,,,,
 ,94.5,,,,,,
 ,,,,,,,
-Fasteners,CART LINK TO ALL THE SCREWS AND NUT FOR THE WHOLE PROJECT,,,,,https://onlyscrews.in/a/cart?cart-token=ZDopDt&link-token=Z7U5qQ,
+Fasteners,CART LINK TO ALL THE SCREWS AND NUT FOR THE WHOLE PROJECT,,,1169,12.47,https://onlyscrews.in/a/cart?cart-token=ZDopDt&link-token=Z7U5qQ,
