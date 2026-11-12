@@ -204,9 +204,3 @@ Turn slowly with the drum at full speed: above ~0.95 turns/s the inside wheel li
 Push: ~41 N continuous, ~52 N traction-limited.
 Between fights: open the lid and feel the ESC — too hot to keep a finger on (>60 °C) means it
 needs more cooling. Check fork, upright and drum screws are tight.
-
-==========================================================================================
-14. FOR FORGE
-==========================================================================================
-The reference CAD/DXFs are mine (AI-assisted). Forge needs your own SolidWorks model + STEP
-exports, a journal written by you with real dates, and honest credits in the README.
