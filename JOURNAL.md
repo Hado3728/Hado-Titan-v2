@@ -83,7 +83,7 @@ to this stage, and I genuinely want to see this thing come to life. Now I'm just
 hoping the pitch gets accepted so I can move forward with the build.
 <img width="1172" height="772" alt="Screenshot 2026-11-10 154430" src="https://github.com/user-attachments/assets/584b698c-df5a-446c-9445-5001c9367a5c" />
 
-# 14th October - updates on the stuff I have already gotten done
+# 14th November - updates on the stuff I have already gotten done
 
 So I order the laser cut parts, and I have received about 70% of em'. This project was approved today, but I was already done with the designing stage I just needed funding for major electronics components to start building it. I just gotta wait ig. 
 <img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/80dbdd73-d245-4e7a-b2aa-3ae3b7b12dd5" />
