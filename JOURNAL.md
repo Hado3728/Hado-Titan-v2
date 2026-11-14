@@ -1,5 +1,3 @@
-# `HADO TITAN v2` 
-
 
 # 17th October  "3h 30m"
 
@@ -103,50 +101,4 @@ So I order the laser cut parts, and I have received about 70% of em'. This proje
 <img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/fedb2754-f257-4a79-8d15-0a6958780e6e" />
 <img width="1419" height="1599" alt="image" src="https://github.com/user-attachments/assets/5da6081a-1776-48e9-b48e-ff6bfffaf814" />
 <img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/0957a858-2464-484d-af49-fa86b57e4d6d" />
-
-# 30th October "0 hours"
-A Little Backstory About This Project
-
-
-So, there's actually a bit more to this project than just the last few days. I'd
-pitched a version of this bot on Forge before, but it got rejected because I
-didn't have enough experience for the project. Honestly, that hit me pretty
-hard. I'd been really motivated to build this thing, and I'd even worked on the
-project during my midsems because I was so excited about it. Getting rejected
-after putting in that effort was pretty demotivating. But looking back, I can
-also understand why they said that. My design was a bit vague back then, and I
-probably hadn't thought through everything as much as I should have. Instead of
-completely giving up on the idea, I decided to take the feedback as a reason to
-improve the project. Since then, I've worked on my CAD skills and spent more
-time figuring out the actual engineering behind the bot. I also have some
-experience with electronics from before, although a lot of that work isn't on
-GitHub because I didn't really know what GitHub was until a year or two ago. And
-honestly, between competitive exams and everything else going on, I haven't had
-much time to work on the things I'm genuinely interested in. A lot of the time,
-I've just had to focus on studying and getting through exams.
-
-
-Now that I'm in my first year of college, I really want to make the most of the
-opportunities I have. I'm already 18, and this is the last year I can make use
-of the opportunities at Hack Club. I don't want to let that time go by without
-actually building something I'm excited about. I want to be able to look back
-years from now and remember that I built a battlebot during my first year of
-college, even if the process was difficult. I know I still lack experience in
-some areas, and I'm not pretending that I know everything about building a
-battlebot. There's obviously a lot I'm going to have to learn along the way. But
-isn't that kind of the point of Hack Club? To build things, make mistakes, learn
-from them, and get better in the process? I don't want this project to be
-something I just talk about doing. I've already spent days working on the
-design, figuring out the components, and trying to make the fabrication
-practical. I want to take it further and actually build the thing. I know the
-previous rejection happened for a reason, and I'm not expecting this pitch to be
-accepted just because I've worked hard on it. I just hope the improvements I've
-made and the effort I've put into the project show that I'm serious about
-building it.
-
-
-
-Hopefully, this time I get the chance to see it through.
-
- 
 
