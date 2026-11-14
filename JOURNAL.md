@@ -1,7 +1,7 @@
 # `HADO TITAN v2` 
 
 
-# 17th October
+# 17th October  '3.5 Hours'
 
 So I started working on this project again on the night of the 17th. I'd
 actually had this idea of building a battlebot about 1.5 months ago, and I was
@@ -17,7 +17,7 @@ before, but this time I actually wanted to take it all the way to fabrication
 instead of just leaving it as an idea.
 <img width="390" height="488" alt="Screenshot 2026-10-29 185259" src="https://github.com/user-attachments/assets/56eea0ab-faae-4fc0-b79c-238e6a35624b" />
 
-# 18th October
+# 18th - 19th October '8 Hours'
 
 Today I started sketching out the bot in my notebook. I was actually on a family
 vacation at a hill station, but I still wanted to get some work done, so I took
@@ -30,7 +30,7 @@ and how everything would fit together. The sketches were pretty rough, and I'm
 <img width="1200" height="1599" alt="image" src="https://github.com/user-attachments/assets/66bfdbb8-5af2-4197-b8ad-fae892868141" />
 
 
-# 20th–26th October — Finally Starting the CAD
+# 20th–26th October — Finally Starting the CAD 'approx 40 Hours'
 
 Okay, this is where I actually started building the bot instead of just thinking
 about it. I started working on the CAD model, and OH MY GOD, it was hectic.
@@ -44,8 +44,21 @@ process, but I still had to make sure the overall design worked for the bot I
 was trying to build. This part honestly took way longer than I thought it would.
 There's a massive difference between imagining a battlebot and actually trying
 to fit everything into a model where the components have to work together.
+<img width="1276" height="675" alt="Screenshot 2026-11-10 222455" src="https://github.com/user-attachments/assets/2553f499-97e4-4dac-b786-f29b1bf8ddab" />
+<img width="602" height="930" alt="Screenshot 2026-11-06 230405" src="https://github.com/user-attachments/assets/c0324795-cef3-4178-a7b0-cbe73ba7b4ef" />
+<img width="750" height="865" alt="Screenshot 2026-11-06 230333" src="https://github.com/user-attachments/assets/87602df3-f990-462f-b1de-24976062c7bf" />
+<img width="436" height="707" alt="Screenshot 2026-11-05 133443" src="https://github.com/user-attachments/assets/477f81fb-1386-4bfa-a939-760709854100" />
+<img width="811" height="650" alt="Screenshot 2026-11-04 201141" src="https://github.com/user-attachments/assets/a91f9336-0f7a-49ee-9ae2-e94f2a628d5d" />
+<img width="947" height="791" alt="Screenshot 2026-11-04 200151" src="https://github.com/user-attachments/assets/fc7ff35c-ae2b-4aea-b869-6e4773a64501" />
+<img width="1006" height="615" alt="Screenshot 2026-11-02 152318" src="https://github.com/user-attachments/assets/45b7fa7b-2caa-43fb-a615-0a758ab3a58d" />
+<img width="1411" height="785" alt="Screenshot 2026-11-01 194356" src="https://github.com/user-attachments/assets/fe801052-57ab-4b6a-83f0-2fed3ffda3c5" />
+<img width="347" height="446" alt="Screenshot 2026-10-30 114013" src="https://github.com/user-attachments/assets/97173cc4-bed6-4695-915e-2a87e969a28e" />
+<img width="1028" height="577" alt="Screenshot 2026-10-30 093336" src="https://github.com/user-attachments/assets/ba902dad-3a58-472a-bca7-0e45a96313de" />
+<img width="958" height="730" alt="Screenshot 2026-09-10 180459" src="https://github.com/user-attachments/assets/51fbbc84-3194-4a49-800b-9b2ca88dfe3e" />
+<img width="887" height="917" alt="Screenshot 2026-09-08 225502" src="https://github.com/user-attachments/assets/79d073d0-62ee-408a-b462-3e302a10fc20" />
 
-# 27th October — Almost Done With the Design
+
+# 27th October — Almost Done With the Design '5 Hours'
 
 By 27th, I was pretty much done with the CAD, at least to the point where I
 could start preparing the design for fabrication. Before moving forward, though,
@@ -55,7 +68,7 @@ immediately jump into fabrication without checking these things first. There was
 still a lot to consider, especially because the bot needed to be practical to
 build and not just look good in a CAD model.
 
-# `28th October — Cost Cutting and Finalising Things` 
+# `28th October — Cost Cutting and Finalising Things` '4.5 Hours'
 
 
 Today I pitched the bot to my dad, who's a mechanical engineer, to get his
@@ -71,7 +84,7 @@ repository on my laptop. I wanted to get the documentation and files organised
 instead of having everything scattered around in different folders.
 <img width="1853" height="797" alt="image" src="https://github.com/user-attachments/assets/8ecf4a52-48cd-4dae-b24e-6928e18418bd" />
 
-# `29th October — Uploading Everything!` 
+# `29th October — Uploading Everything!` '3 Hours'
 
 
 And finally I'm getting everything ready to upload to the repository and pitch
@@ -91,7 +104,7 @@ So I order the laser cut parts, and I have received about 70% of em'. This proje
 <img width="1419" height="1599" alt="image" src="https://github.com/user-attachments/assets/5da6081a-1776-48e9-b48e-ff6bfffaf814" />
 <img width="1600" height="1068" alt="image" src="https://github.com/user-attachments/assets/0957a858-2464-484d-af49-fa86b57e4d6d" />
 
-# 30th October
+# 30th October '0 Hours'
 A Little Backstory About This Project
 
 
