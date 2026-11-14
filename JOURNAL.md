@@ -1,5 +1,6 @@
 
-# 17th October  "3h 30m"
+# 17th October  
+"3h 30m"
 
 So I started working on this project again on the night of the 17th. I'd
 actually had this idea of building a battlebot about 1.5 months ago, and I was
@@ -15,7 +16,8 @@ before, but this time I actually wanted to take it all the way to fabrication
 instead of just leaving it as an idea.
 <img width="390" height="488" alt="Screenshot 2026-10-29 185259" src="https://github.com/user-attachments/assets/56eea0ab-faae-4fc0-b79c-238e6a35624b" />
 
-# 18th - 19th October "8 hours"
+# 18th - 19th October 
+"8 hours"
 
 Today I started sketching out the bot in my notebook. I was actually on a family
 vacation at a hill station, but I still wanted to get some work done, so I took
@@ -28,7 +30,8 @@ and how everything would fit together. The sketches were pretty rough, and I'm
 <img width="1200" height="1599" alt="image" src="https://github.com/user-attachments/assets/66bfdbb8-5af2-4197-b8ad-fae892868141" />
 
 
-# 20th–26th October — Finally Starting the CAD "40 hours"
+# 20th–26th October — Finally Starting the CAD 
+"40 hours"
 
 Okay, this is where I actually started building the bot instead of just thinking
 about it. I started working on the CAD model, and OH MY GOD, it was hectic.
@@ -56,7 +59,8 @@ to fit everything into a model where the components have to work together.
 <img width="887" height="917" alt="Screenshot 2026-09-08 225502" src="https://github.com/user-attachments/assets/79d073d0-62ee-408a-b462-3e302a10fc20" />
 
 
-# 27th October — Almost Done With the Design "5 hours"
+# 27th October — Almost Done With the Design 
+"5 hours"
 
 By 27th, I was pretty much done with the CAD, at least to the point where I
 could start preparing the design for fabrication. Before moving forward, though,
@@ -64,9 +68,17 @@ I still had to figure out the battery calculations and the gear systems for both
 the drive motors and the weapon motor. I didn't want to just finish the CAD and
 immediately jump into fabrication without checking these things first. There was
 still a lot to consider, especially because the bot needed to be practical to
-build and not just look good in a CAD model.q
+build and not just look good in a CAD model. So I had the forks to be put into
+a 2D stress test and after those I had to like change the design of the forks in
+order to  make them strong enough to not break on impact. I did try cutting out 
+windows but failed miserably cuz cutting the windows to save on weight made the forks weaker.
+<img width="1932" height="2576" alt="33025" src="https://github.com/user-attachments/assets/7e8c4eee-6262-418c-a0a4-c722bea1fa2b" />
+<img width="917" height="967" alt="fork_designs_fea" src="https://github.com/user-attachments/assets/0b4c4a47-b546-448b-98b5-6328c6bc3915" />
+<img width="1260" height="1080" alt="fork_fea (1)" src="https://github.com/user-attachments/assets/ca393aba-7c2f-4274-b604-b077de9abe11" />
 
-# `28th October — Cost Cutting and Finalizing Things` "4h 30m"
+
+# `28th October — Cost Cutting and Finalizing Things` 
+"4h 30m"
 
 
 Today I pitched the bot to my dad, who's a mechanical engineer, to get his
@@ -82,7 +94,8 @@ repository on my laptop. I wanted to get the documentation and files organised
 instead of having everything scattered around in different folders.
 <img width="1853" height="797" alt="image" src="https://github.com/user-attachments/assets/8ecf4a52-48cd-4dae-b24e-6928e18418bd" />
 
-# `29th October — Uploading Everything!` "3 hours"
+# `29th October — Uploading Everything!`
+"3 hours"
 
 
 And finally I'm getting everything ready to upload to the repository and pitch
@@ -94,7 +107,8 @@ to this stage, and I genuinely want to see this thing come to life. Now I'm just
 hoping the pitch gets accepted so I can move forward with the build.
 <img width="1172" height="772" alt="Screenshot 2026-11-10 154430" src="https://github.com/user-attachments/assets/584b698c-df5a-446c-9445-5001c9367a5c" />
 
-# 14th November - updates on the stuff I have already gotten done "2 hours"
+# 14th November - updates on the stuff I have already gotten done 
+"2 hours"
 
 So I order the laser cut parts, and I have received about 70% of em'. This project was approved today, but I was already done with the designing stage I just needed funding for major electronics components to start building it. I had to de burr all the parts manually, with a hand file. Then I also got the taps for all the screws and I used the hand taps to tap the threads into the parts.
 <img width="1599" height="1200" alt="image" src="https://github.com/user-attachments/assets/80dbdd73-d245-4e7a-b2aa-3ae3b7b12dd5" />
